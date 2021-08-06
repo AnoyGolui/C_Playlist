@@ -13,6 +13,5 @@ int main()
   cube=n*n*n;
 
   printf("\nSquare: %d\nCube: %d",sqre,cube);
-
   return 0;
 }
