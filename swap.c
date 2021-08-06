@@ -20,6 +20,5 @@ int main()
 
   printf("\nAfter Swapping...");
   printf("\n A=%d, B=%d",a,b);
-
   return 0;
 }
