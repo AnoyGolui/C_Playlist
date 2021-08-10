@@ -2,13 +2,11 @@
 
 #include<stdio.h>
 
-int main()
-{
+int main(){
   int n,sqre,cube;
 
   printf("Enter Number: ");
   scanf("%d",&n);
-
   sqre=n*n;
   cube=n*n*n;
 
